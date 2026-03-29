@@ -1,0 +1,23 @@
+# Oh Wonder – Technicolour Beat
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+lay down your slow come settle down
+let loose your glow come settle down
+and I feel life for the very first time
+love in my arms and the sun in my eyes
+I feel safe in the 5am light
+you carry my fears as the heavens set fire
+jump into the heat
+spinning on our feet in a technicolour beat
+you and me caught up in a dream
+in a technicolour beat
+warm unalone come settle down
+swing me your bones come settle down
+give me one drop
+I can feel you
+make me lose control
+we be walking on the water
+we're moving in a technicolour beat
+```
