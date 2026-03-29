@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Technicolour Beat",
+  "base_artist": "Oh Wonder",
+  "createdAt": "2026-03-29T14:39:12.615961Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Technicolour Beat",
+      "artist": "Oh Wonder",
+      "has_synced": true,
+      "path": "select/01_Technicolour_Beat_Oh_Wonder.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Technicolour Beat",
+      "artist": "Oh Wonder",
+      "has_synced": true,
+      "path": "select/02_Technicolour_Beat_Oh_Wonder.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Technicolour Beat",
+      "artist": "Mike Tompkins",
+      "has_synced": false,
+      "path": "select/03_Technicolour_Beat_Mike_Tompkins.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Technicolour Beat",
+      "artist": "Oh Wonder",
+      "has_synced": true,
+      "path": "select/04_Technicolour_Beat_Oh_Wonder.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Technicolour Beat (10 Years On)",
+      "artist": "Oh Wonder",
+      "has_synced": false,
+      "path": "select/05_Technicolour_Beat_(10_Years_On)_Oh_Wonder.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Technicolour Beat - 10 Years On",
+      "artist": "Oh Wonder",
+      "has_synced": false,
+      "path": "select/06_Technicolour_Beat_-_10_Years_On_Oh_Wonder.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Technicolour Beat",
+      "artist": "Oh Wonder",
+      "has_synced": false,
+      "path": "select/pl_01_Technicolour_Beat_Oh_Wonder.txt"
+    }
+  ]
+}
